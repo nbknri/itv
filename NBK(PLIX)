@@ -4,8 +4,6 @@ http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23951.m3u8
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23952.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/" group-title="Malayalam",Asianet Movies
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23953.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/" group-title="Malayalam",Asianet Movies HD
-http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/3260.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/" group-title="Malayalam",Asianet Plus
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23954.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="Malayalam",Asianet News
