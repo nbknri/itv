@@ -16,13 +16,13 @@ http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23957.m3u8
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23959.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="Malayalam",Surya Music
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23958.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil",Zee Tamil HD
+#EXTINF:-1 tvg-logo="https://bit.ly/2Xkvd5p" group-title="Tamil",Zee Tamil HD
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23874.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil",Colors Tamil HD
+#EXTINF:-1 tvg-logo="https://bit.ly/2PjG7Eh" group-title="Tamil",Colors Tamil HD
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23876.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/" group-title="Tamil",Star Vijay HD
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23884.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil",TATA SKY Tamil Cinema
+#EXTINF:-1 tvg-logo="https://bit.ly/39Mduc6" group-title="Tamil",TATA SKY Tamil Cinema
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23885.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png" group-title="Tamil",KTV HD
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23875.m3u8
@@ -30,27 +30,27 @@ http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23875.m3u8
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23880.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="Tamil",Sun Music
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23881.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil",Sun Life
+#EXTINF:-1 tvg-logo="http://sunnetwork.in/ChannelLogo/49SunLife.jpg" group-title="Tamil",Sun Life
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23882.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil",Sun New
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sun_news_in.jpg" group-title="Tamil",Sun News
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23883.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil" group-title="Tamil",Jaya TV
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/jaya_tv.jpg" group-title="Tamil" group-title="Tamil",Jaya TV
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23877.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil" group-title="Tamil",Jaya Plus
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/jaya_plus.jpg" group-title="Tamil" group-title="Tamil",Jaya Plus
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23878.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil" group-title="Tamil",Jaya Max
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/jaya_max.jpg" group-title="Tamil" group-title="Tamil",Jaya Max
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23879.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil" group-title="Tamil",Raj Digital Plus
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/raj_digital_plus.jpg" group-title="Tamil" group-title="Tamil",Raj Digital Plus
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/2641.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F2NjQ17/" group-title="Tamil",NAT GEO Tamil HD
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23886.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil",NAT GEO Wild Tamil HD
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg" group-title="Tamil",NAT GEO Wild Tamil HD
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23887.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil",Hist TV18 HD
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_tv18_hd.jpg" group-title="Tamil",Hist TV18 HD
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23888.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil",Fox Life HD
+#EXTINF:-1 tvg-logo="https://bit.ly/319rj0p" group-title="Tamil",Fox Life HD
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23889.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil",Discovery World HD
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_hd_world_ne_asia.jpg" group-title="Tamil",Discovery World HD
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23890.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Tamil",Discovery Kids Tamil
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_kids_in.jpg" group-title="Tamil",Discovery Kids Tamil
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23891.m3u8
